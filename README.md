@@ -4,7 +4,7 @@ The provided Python script is a comprehensive set of exercises and tasks demonst
 1. Generating a DataFrame with Random Integers and Alphabet Index (Q1)
 The script creates a DataFrame with the 26 letters of the alphabet as the index and 26 random integers between 1 and 100 as the data. The first five rows are printed to showcase the results.
 
-2 . Constructing a DataFrame and Extracting Series Data (Q2)
+2. Constructing a DataFrame and Extracting Series Data (Q2)
 A DataFrame is constructed with three columns, class1, class2, and class3, populated with numerical values.
 The first column is extracted as a Series using the iloc method.
 
