@@ -52,4 +52,4 @@ The DataFrame is normalized by subtracting the column mean and dividing by the s
 Uses the Seaborn planets dataset to count the number of discovered planets by the discovery method and decade.
 
 Summary:
-This script provides a thorough exercise in data manipulation, cleaning, transformation, and analysis using Pandas. It covers essential operations like indexing, slicing, aggregating, creating multi-index DataFrames, handling missing data, normalizing datasets, and performing exploratory data analysis on built-in datasets like planets. These tasks are valuable for anyone learning data science or data analysis using Python.
+This script provides a thorough exercise in data manipulation, cleaning, transformation, and analysis using Pandas. It covers essential operations like indexing, slicing, aggregating, creating multi-index DataFrames, handling missing data, normalizing datasets, & performing exploratory data analysis on built-in datasets like planets. These tasks are valuable for anyone learning data science or data analysis using Python.
